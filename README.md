@@ -33,6 +33,6 @@ and then
 
 ### The book cover_images
 
-https://github.com/cactus-blossom-it-services-limited/millais - automatic!
+https://github.com/cactus-blossom-it-services-limited/millais
 
 
