@@ -31,4 +31,8 @@ and then
 
 `pgsql` commands
 
+### The book cover_images
+
+https://github.com/cactus-blossom-it-services-limited/millais - automatic!
+
 
