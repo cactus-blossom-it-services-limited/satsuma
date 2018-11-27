@@ -31,8 +31,8 @@ and then
 
 `pgsql` commands
 
-### Upload book cover_images here:
+### Add images
 
-https://github.com/cactus-blossom-it-services-limited/millais
+[upload book images][https://github.com/cactus-blossom-it-services-limited/millais]
 
 
