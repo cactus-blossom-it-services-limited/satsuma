@@ -5,6 +5,7 @@ module.exports = {
   },
   production: {
     client: 'pg',
-    connection: process.env.NODE_ENV || development
+    connection: process.env.DATABASE_URL || development
   }
 };
+require('dotenv').config()
