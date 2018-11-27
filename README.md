@@ -33,6 +33,7 @@ and then
 
 ### Add images
 
+https://github.com/cactus-blossom-it-services-limited/millais - automatic!
 [upload book images][https://github.com/cactus-blossom-it-services-limited/millais]
 
 
