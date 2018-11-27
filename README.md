@@ -23,7 +23,7 @@ https://salty-temple-13291.herokuapp.com/api/v1/books
 
 The app exposes a JSON API of data in a pgsql table named 'books'
 
-Books can be added using:
+Books can be managed using:
 
 `heroku pg:psql`
 
