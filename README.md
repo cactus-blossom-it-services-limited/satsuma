@@ -11,25 +11,25 @@ https://www.youtube.com/watch?v=44NTs9R94do
 
 Kim Schlesinger
 
-### Development by
+### Developed by
 
 Andrew Farquharson
 
-## App hosted on heroku:
+### App hosted on heroku:
 
 https://salty-temple-13291.herokuapp.com/api/v1/books
 
-## Usefulness
+### Usefulness
 
 The app exposes a JSON API of data in a pgsql table named 'books'
 
 Books can be added using:
 
-# heroku pg:psql
+heroku pg:psql
 
 and 
 
-# pgsql commands
+pgsql commands
 
 on local command line
 
