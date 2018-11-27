@@ -25,11 +25,10 @@ The app exposes a JSON API of data in a pgsql table named 'books'
 
 Books can be added using:
 
-heroku pg:psql
+`<code>`heroku pg:psql
 
-and 
+and then
 
-pgsql commands
+**pgsql commands**
 
-on local command line
 
