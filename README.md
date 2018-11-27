@@ -25,7 +25,7 @@ The app exposes a JSON API of data in a pgsql table named 'books'
 
 Books can be added using:
 
-`<code>`heroku pg:psql`</code>`
+`heroku pg:psql`
 
 and then
 
