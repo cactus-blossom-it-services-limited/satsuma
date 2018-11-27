@@ -29,6 +29,6 @@ Books can be added using:
 
 and then
 
-**pgsql commands**
+`pgsql` commands
 
 
